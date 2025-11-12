@@ -1,0 +1,9 @@
+/* Enter your custom styles here */
+ 
+.header .sapMIBar-CTX .sapMTitle {
+color: #10b6cc;
+text-shadow: none;
+}
+html.sap-desktop .sapMIBar.sapMFooter-CTX {
+background-color: #5a006633;
+}
