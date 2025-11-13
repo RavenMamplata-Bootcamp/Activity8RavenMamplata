@@ -1,9 +1,11 @@
 /* Enter your custom styles here */
  
 .header .sapMIBar-CTX .sapMTitle {
-color: #10b6cc;
-text-shadow: none;
+  color: #ff6f00;
+  text-shadow: 0 0 6px rgba(255, 111, 0, 0.5);
 }
+
 html.sap-desktop .sapMIBar.sapMFooter-CTX {
-background-color: #5a006633;
+  background: linear-gradient(90deg, #ff512f, #dd2476);
+  color: white;
 }
